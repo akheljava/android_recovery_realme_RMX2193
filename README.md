@@ -1,5 +1,5 @@
 ## Android Recovery Device Tree for Realme Narzo 20 - RMX2193
-### Detail Specification
+### Detail Device Specification
 DEVICE         | INFORMATION
 -----:         | :----------
 Variant        | Realme Narzo 20/Realme 7i (Global)
